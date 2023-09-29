@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalculadoraAC1</string>
+    <string name="somar">SOMAR +</string>
+    <string name="subtrair">SUBTRAIR -</string>
+    <string name="dividir">DIVIDIR /</string>
+    <string name="multiplicar">MULTIPLICAR *</string>
+    <string name="v_1">Digite o 1º valor</string>
+    <string name="v_2">Digite o 2º valor</string>
+</resources>
